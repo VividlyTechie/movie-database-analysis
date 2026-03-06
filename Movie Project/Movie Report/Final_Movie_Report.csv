@@ -1,0 +1,8 @@
+Genre,Average_Rating,Average_Duration,Average_Revenue,Max_Revenue,Min_Revenue,Duration_Standard_Deviation
+Action,5.53,102.52,149.27,3278.07,6.26,20.27
+Comedy,5.68,106.15,117.07,849.92,4.25,20.38
+Drama,5.65,105.75,127.7,802.04,4.71,19.92
+Horror,5.34,107.92,136.04,1312.36,9.55,18.57
+Romance,5.69,105.4,117.96,1215.44,2.76,18.68
+Sci-Fi,5.46,104.06,107.23,778.66,3.02,21.01
+Unknown,5.2,110.54,80.55,279.74,3.82,17.39
